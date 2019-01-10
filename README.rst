@@ -126,7 +126,7 @@ There are some options to custamize how this tool behaves, they are explained th
 
 Notes
 -----
-There is also a version of this Project for bitcoin: TODO(link)
+There is also a version of this Project for bitcoin: https://github.com/SchulerSimon/unchained-cli-btc
 
 please note that due to naming reasons it is not possible to install and run both versions in the same python3 environment on a PC (use virtualenv: https://virtualenv.pypa.io/en/stable/). Both versions can run alongside eachother on a pi.
 
