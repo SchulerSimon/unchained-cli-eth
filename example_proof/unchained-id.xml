@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<root>
+  <!--id-file for: "Unchained Identities: Putting a Price on Sybil Nodes in Mobile Ad hoc Networks" by Prof. Dr. Dieter Hogrefe, M.Sc. Arne Bochem and M.Sc. Bejmain Leiding.-->
+  <nodeinfo>
+    <nodeid>BpjPklfUmRhAaP2Z6r2g5/GfqaYoH0TJEk1cq0nVIhc=</nodeid>
+    <publickey>4bd485055bf829d8b8fd817ac6b4a0213f76b80c757cb33bd2f52ee6dc18240ac5ba4fb646d50eeac0eb6f9b01a22d3a9245b543105d47304869b14673bbbab5</publickey>
+    <privatekey>
+      785cdcd731a1b2438ec4511a25d04efbdc499ed350df612364af1aa6f4fd6abd
+      <!--DO NEVER EVER SHARE THIS KEY WITH ANYONE!-->
+    </privatekey>
+  </nodeinfo>
+</root>

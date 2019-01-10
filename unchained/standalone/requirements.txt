@@ -1,0 +1,5 @@
+docopt
+web3
+ethereum
+trie
+lxml
